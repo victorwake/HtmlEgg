@@ -1,0 +1,25 @@
+body {
+    background-color: #ffffff;
+}
+
+ul{
+    list-style-type: square;
+}
+
+#lista-con-link{
+    list-style-type: circle;
+}
+
+
+a:link{
+    color:  #CC0000;
+}
+
+a:hover {
+    color:  rgb(110, 0, 0);
+    background-color: #f3f3f3;
+    }
+
+a:visited {
+    color:   rgb(3, 157, 228);
+} 
