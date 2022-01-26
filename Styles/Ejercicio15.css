@@ -1,0 +1,32 @@
+body {
+    margin: 3%;
+}
+
+.form-label {
+    font-weight: bold;
+    width: 100px;
+    
+}
+
+.form-control {
+    width: 460px;
+
+}
+
+#container {
+    border: 1px solid;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 0.5%;
+    padding-right: 1%;
+    border-radius: 10px;
+    border-color: rgba(0, 0, 0, 0.466);
+    height: auto;
+    width: 480px;
+    margin-right: auto;
+}
+
+.btn-outline-dark {
+    border-color: rgba(0, 0, 0, 0.466);
+
+}
